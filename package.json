@@ -1,0 +1,25 @@
+{
+  "name": "mytasklist_mean",
+  "version": "1.0.0",
+  "description": "Simple task manager app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zackforhack/mytasklist_MEAN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zackforhack/mytasklist_MEAN/issues"
+  },
+  "homepage": "https://github.com/zackforhack/mytasklist_MEAN#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongojs": "^2.4.1"
+  }
+}
