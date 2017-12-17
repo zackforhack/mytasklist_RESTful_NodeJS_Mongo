@@ -4,6 +4,9 @@
 You will need to install NodeJS to start the app
 
 # API documentation
+
+A very basci CRUD Restful interface:
+
 app home page: localhost:3000
 
 localhost:3000/api/tasks - (http get)this will list all the task in the mongo db instance
